@@ -10,12 +10,12 @@ To work out the love score between two people:
 
 > For love scores **less than 10** or **greater than 90,** the message should be:
 
-"Your score is **x**, you go together like and mentos"
+"Your score is **x**, you go together like and coke mentos"
 
 > For love scores **between 40** and **50,** the message should be:
 
 "Your score is Y, you are alright together"
 
-> Otherwise, the message willjust be their score. e.g.:
+> Otherwise, the message will just be their score. e.g.:
 
 "Your score is z"
