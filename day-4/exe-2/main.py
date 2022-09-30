@@ -5,4 +5,4 @@ cards = input("Drop Your Cards Here\n")
 names = cards.split(", ")
 random_choice = random.randint(0, len(names)-1)
 output = names[random_choice]
-print(output)
+print(f("Is going to pay for the meal tody {output}")
