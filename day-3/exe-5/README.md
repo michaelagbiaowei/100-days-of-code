@@ -2,11 +2,11 @@
 
 **Instructions**
 
-Write a prgram that tests the compatibility betwwen two people. Use the super scientific method recommended by BuzzFeed
+Write a program that tests the compatibility betwwen two people. Use the super scientific method recommended by BuzzFeed
 
 To work out the love score between two people:
 
-*Take both people's names and check for the number of times the letters in the word TRUE occurs. Then check fornthe number of times letter in the word LOVE occurs. Then concatinate these numbers to make a 2 digit number.*
+*Take both people's names and check for the number of times the letters in the word TRUE occurs. Then check form the number of times letter in the word LOVE occurs. Then concatinate these numbers to make a 2 digit number.*
 
 > For love scores **less than 10** or **greater than 90,** the message should be:
 
