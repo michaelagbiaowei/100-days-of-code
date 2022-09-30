@@ -18,7 +18,17 @@ import random
 # lists_of_names.extend(["jhgsjh", "shhsd", "shaj"])
 # print(lists_of_names)
 
-cards = input("Drop Your Cards Here\n")
-split_cards = cards.split(", ")
-randome_choice = random.choice(split_cards)
-print(randome_choice)
+
+# initializing list
+test_list = [1, 4, 5, 2, 7]
+
+# printing original list
+print("Original list is : " + str(test_list))
+
+# using random.randint() to
+# get a random number
+rand_idx = random.randint(0, len(test_list)-1)
+random_num = test_list[rand_idx]
+
+# printing random number
+print("Random selected number is : " + str(random_num))
