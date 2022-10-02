@@ -17,4 +17,8 @@ There are a total of 7 heights in
 
      	1146 / 7 = 163.71428572
 
-Average height rounded to the nearest whole number = 164
+Average height rounded to the nearest whole 
+
+number = 164
+
+**NOTE:** You are not allowed to use the sum() and len() function
