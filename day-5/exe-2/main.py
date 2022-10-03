@@ -15,3 +15,11 @@ print(max)
 # for x in student_scores:
 #     if x > max:
 #         max = x
+# print(max)
+
+# min = student_scores[0]
+
+# for x in student_scores:
+#     if x < min:
+#         min = x
+# print(min)
