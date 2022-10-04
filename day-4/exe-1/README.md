@@ -2,7 +2,7 @@
 
 **Instructions**
 
-Write a virtual coin toss pragramm. It will randomly tell the user "Heads" or "Tails".
+Write a virtual coin toss program. It will randomly tell the user "Heads" or "Tails".
 
 **Important**, the first letter should be capitalized and spelt exactly like in the example e.g. Heads, not heads.
 
