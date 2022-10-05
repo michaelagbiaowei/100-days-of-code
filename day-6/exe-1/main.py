@@ -1,0 +1,15 @@
+def stage():
+    move()
+    turn_left()
+    move()
+    turn_left()
+    turn_left()
+    turn_left()
+    move()
+    turn_left()
+    turn_left()
+    turn_left()
+    move()
+    turn_left()   
+for x in range(0, 6):
+    stage()
