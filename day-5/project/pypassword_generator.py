@@ -13,10 +13,11 @@ pass_let = random.choices(letters, k=nr_letters)
 pass_sym = random.choices(symbols, k=nr_symbols)
 pass_num = random.choices(numbers, k=nr_numbers)
 
+mix = pass_let + pass_sym + pass_num
+
 #Eazy Level - Order not randomised:
 # #e.g. 4 letter, 2 symbol, 2 number = JduE&!91
-# print(pass_let + pass_sym + pass_num)
-mix = pass_let + pass_sym + pass_num
+print(*mix, sep="")
 
 
 #Hard Level - Order of characters randomised:
