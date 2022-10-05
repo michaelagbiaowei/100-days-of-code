@@ -23,5 +23,3 @@ mix = pass_let + pass_sym + pass_num
 #e.g. 4 letter, 2 symbol, 2 number = g^2jk8&P
 shuffled_list = random.sample(mix, len(mix))
 print(*shuffled_list, sep="")
-
-
