@@ -1,5 +1,6 @@
 ## **Hurdles Race**
 
+**Instructions**
 Reeborg has entered a hurdles race. Make him run the course, following the path shown.
 
 **What you need to know**
