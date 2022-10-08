@@ -7,7 +7,8 @@ print(chosen_word)
 
 guess = input("Guess a Letter\n").lower()
 
-if guess in chosen_word:
-    print("correct")
-else:
-    ("wrong")
+for n in chosen_word:
+    if n == guess:
+        print("Right")
+    else:
+        print("Wrong")
